@@ -14,3 +14,4 @@ const data2 = 20;
 const data3 = 25;
 const data4 = 30;
 const bool1 = data1 > data2 ? true : false;
+console.log(bool1);
