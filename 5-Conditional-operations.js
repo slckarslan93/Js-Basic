@@ -19,3 +19,7 @@ const num6 = 5;
 
 const result3 = num5 != num6;
 console.log(result3);
+
+//* Greater Than Equal
+
+//* Lover Than Equal
